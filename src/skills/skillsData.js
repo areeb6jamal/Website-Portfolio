@@ -62,6 +62,10 @@ const skills = {
         title: "Rectifiers",
         level: 3,
       },
+      {
+        title: <k1>Virus-Fighting</k1>,
+        level: 6,
+      },
     ],
   };
   
