@@ -14,7 +14,7 @@ const skills = {
       },
       {
         title: "SQL",
-        level: 2,
+        level: 4,
       },
       {
         title: "HTML",
@@ -36,27 +36,27 @@ const skills = {
     2: [
       {
         title: "Verilog",
-        level: 5,
+        level: 6,
       },
       {
         title: "SystemVerilog",
-        level: 4,
+        level: 5,
       },
       {
         title: "FPGAs",
-        level: 2,
+        level: 3,
       },
       {
         title: "Oscilloscopes",
-        level: 4,
+        level: 5,
       },
       {
         title: "Multimeters",
-        level: 2,
+        level: 3,
       },
       {
         title: "Amplifiers",
-        level: 3,
+        level: 4,
       },
       {
         title: "Rectifiers",
