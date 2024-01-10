@@ -19,6 +19,7 @@ body {
 }
 
 button:hover,
+.link-container a:hover,
 .class-sub-container a:hover,
 .project-item:hover,
 .skill-item:hover,
