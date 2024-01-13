@@ -14,10 +14,7 @@ const projects = {
         </p>
         <p>
         - Processed compressed data for a 320 x 240-pixel image received on an Altera DE2-115 board via UART interface and stored
-        in an external SRAM.
-        </p>
-        <p>
-        - Wrote a Verilog program using Quartus II to configure the FPGA to read and recover the compressed image to a VGA
+        in an external SRAM.<br /> - Wrote a Verilog program using Quartus II to configure the FPGA to read and recover the compressed image to a VGA
         controller for display to a monitor.
         </p>
       </>
@@ -34,13 +31,9 @@ const projects = {
         </p>
         <p>
         - Integrated a 28BYJ-48 stepper motor with a VL53L1X time-of-flight sensor using infrared laser light to obtain 
-        360-degree distance measurements.
-        </p>
-        <p>
+        360-degree distance measurements.<br /> 
         - Implemented a C++ program using Kiel to configure digital I/O pins on an MSP 430 microcontroller for reading
-         LiDAR sensor data through I2C serial communication.
-        </p>
-        <p>
+         LiDAR sensor data through I2C serial communication.<br /> 
         - Developed a Python script to visualize time-of-flight sensor measurement data collected through UART 
         communication from the MSP 430 in a 3D graphical representation using the comprehensive matplotlib library.
         </p>
@@ -58,9 +51,7 @@ const projects = {
         </p>
         <p>
         - Created a pacemaker model using Simulink to implement 8 different modes of autonomous heartbeat functionality for regulating 4
-        heart chambers on an NXP FRDM-K64F microcontroller.
-        </p>
-        <p>
+        heart chambers on an NXP FRDM-K64F microcontroller.<br /> 
         - Designed a GUI using JavaScript that acted as a DCM for a user to control the pacemaker Simulink parameters as well as monitor the heart 
         chambers through an e-gram display which was serially communicated through UART by the board.
         </p>

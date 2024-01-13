@@ -76,6 +76,8 @@
   .link-container a {
     color: white;
     text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
     margin-top: 1rem;
     width: 50%;
     height: 2.75rem;
@@ -107,6 +109,7 @@
   @media (max-width: 700px) {
     .project-menu {
       width: 28rem;
+      top: 12.5%;
       flex-direction: column;
       align-items: center;
     }
@@ -115,18 +118,26 @@
     }
     .project-sub-container {
       margin-top: 1rem;
-      width: 12rem;
+      width: 15rem;
     }
+    .project-sub-container h3 {
+      font-size: 0.8rem;
+    }
+
     .project-sub-container img {
       width: 12rem;
     }
     .link-container a {
-      margin-top: 0.5rem;
+      margin-top: 0rem;
       width: 50%;
-      height: 2rem;
+      height: 1rem;
     }
     .project-items-container {
       margin-top: 0;
+      left: 9%;
+    }
+    .project-item .title {
+      font-size: 0.8rem;
     }
   }
   
