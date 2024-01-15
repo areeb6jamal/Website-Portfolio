@@ -7,7 +7,7 @@ const Contact = () => {
     <>
       <p3>
       Stumble across any <k>evil viruses</k> or 
-      job opportunites that pertain to my skillset? 
+      job opportunities that pertain to my skillset? 
       </p3>
       <p4>
       Feel free to contact me!

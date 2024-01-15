@@ -5,7 +5,7 @@
   flex-direction: column;
   top: 40%;
   transform: translateY(-60%);
-  left: 14vw;
+  left: 13vw;
 }
 
 .item {
@@ -22,16 +22,16 @@
 }
 
 .item.active .title {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 .sub-container {
-  width: 31rem;
+  width: 35rem;
   position: fixed;
   display: flex;
   flex-direction: column;
-  top: 40%;
-  left: 67.5vw;
+  top: 30%;
+  left: 65vw;
   cursor: pointer;
 }
 

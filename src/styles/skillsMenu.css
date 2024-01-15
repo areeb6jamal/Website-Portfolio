@@ -1,15 +1,15 @@
 .skill-menu {
-  width: 31.2rem;
+  width: 30rem;
   position: fixed;
   display: flex;
   flex-direction: column;
-  top: 20%;
-  right: 15vw;
+  top: 15%;
+  right: 10vw;
   align-items: flex-end;
 }
 
 .skill-item, .k1 {
-  height: 3.7rem;
+  height: 3rem;
   width: 60%;
   display: flex;
   position: relative;
@@ -19,10 +19,6 @@
 }
 
 .skill-title {
-  font-size: 1rem;
-  padding-right: 1rem;
-}
-.skill-title1 {
   font-size: 1rem;
   padding-right: 1rem;
 }
@@ -52,7 +48,7 @@
   width: 5rem;
   height: 5rem;
   position: absolute;
-  top: 1.8rem;
+  top: 0.8rem;
   left: 8rem;
 }
 
@@ -66,7 +62,7 @@
 .skill-sub-container-2 {
   display: flex;
   justify-content: right;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .level-container {
@@ -75,7 +71,7 @@
 }
 
 .level-point {
-  width: 3rem;
+  width: 2.5rem;
   height: 2rem;
   border-radius: 0.2rem;
 }
@@ -88,7 +84,7 @@
 }
 
 .skill-sub-container {
-  margin-top: 2rem;
+  margin-top: 1rem;
   display: flex;
   flex-direction: column;
   gap: 0.4rem;

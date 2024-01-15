@@ -8,8 +8,8 @@
 p3 {
   position: absolute;
   text-align: center;
-  width: 33%;
-  top: 25%;
+  width: 100%;
+  top: 22.5%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1rem;
@@ -19,8 +19,8 @@ p3 {
 p4 {
   position: absolute;
   text-align: center;
-  width: 12%;
-  top: 32.5%;
+  width: 100%;
+  top: 27.5%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1.2rem;
@@ -120,7 +120,7 @@ label {
   }
 
   p4 {
-    width: 50%;
+    width: 100%;
     top: 17.5%;
   }
 }

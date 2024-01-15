@@ -45,11 +45,9 @@ const subheadingsData = {
             <b>Bell Canada: May 2023 - Aug. 2023</b>
           </p>
           <p>
-            - Administered and launched <b>9</b> capital projects across the GTHA alongside <b>800+</b> preexisting cell sites contributing to
-            efficiently delivering quality fiber and cellular network coverage to <b>99%</b> of Canadians.
-          </p>
-          <p>
-            - Streamlined troubleshooting processes through creative innovations alongside advising a team of <b>34</b> technicians on
+            <b>-</b> Administered and launched <b>9</b> capital projects across the GTHA alongside <b>800+</b> preexisting cell sites contributing to
+            efficiently delivering quality fiber and cellular network coverage to <b>99%</b> of Canadians.<br />
+            <b>-</b> Streamlined troubleshooting processes through creative innovations alongside advising a team of <b>34</b> technicians on
             prioritization strategies which efficiently saved company time by <b>11%</b>.
           </p>
         </>
@@ -63,11 +61,9 @@ const subheadingsData = {
             <b>Ericsson Canada: May 2022 - Aug. 2022</b>
           </p>
           <p>
-            - Monitored a variety of radio frequency signals and bands for <b>300+</b> sites across the city of Jacksonville remotely and
-            generated detailed site summaries for customers.
-          </p>
-          <p>
-            - Analyzed high VSWR through KPIs to further optimize radio network performance which boosted the efficiency of available
+            <b>-</b> Monitored a variety of radio frequency signals and bands for <b>300+</b> sites across the city of Jacksonville remotely and
+            generated detailed site summaries for customers.<br />
+            <b>-</b> Analyzed high VSWR through KPIs to further optimize radio network performance which boosted the efficiency of available
             network resources by <b>24%</b>.
           </p>
         </>
