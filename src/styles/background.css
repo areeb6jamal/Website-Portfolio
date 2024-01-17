@@ -1,6 +1,6 @@
 #bg {
   object-fit: cover;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -13,7 +13,7 @@
   top: 0;
   left: 0;
   z-index: -4;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-color: rgba(0, 0, 0, 0.4);
 }
@@ -24,6 +24,12 @@
 
 @media (max-width: 700px) {
   .shadow-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -4;
+    width: 100vw;
+    height: 100vh;
     background-color: rgba(0, 0, 0, 0.7);
   }
   .playingvideo {
@@ -32,7 +38,7 @@
   .nobackground {
     display: block;
     object-fit: cover;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     position: fixed;
     top: 0;

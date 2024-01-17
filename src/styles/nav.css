@@ -22,7 +22,6 @@
   transform: translateX(-15.62rem);
 } 
 
-
 a {
   width: 3.125rem;
   display: flex;
@@ -58,7 +57,7 @@ a {
     transform: translateX(0);
   }
   .nav {
-    top: calc(100vh - 5rem);
+    top: calc(100dvh - 5rem);
     transform: translateX(-50%);
   }
   .nav-link {

@@ -60,18 +60,19 @@
     width: 100%;
     font-size: 1.2rem;
     position: relative;
-    margin: 0;
+    margin-bottom: 0.5rem;
   }
   .project-sub-container img {
-    width: 70%;
+    width: 75%;
     object-fit: cover;
-    align-content: center;
+    padding-left: 10%;
     border-radius: 0.5rem 3rem 0.5rem 0.5rem;
-    opacity: 0.9;
   }
   .project-sub-container p {
     width: 100%;
     font-size: 0.875rem;
+    margin-bottom: 0%;
+    margin-top: 0.5rem;
   }
   
   .link-container a {
@@ -79,9 +80,9 @@
     text-decoration: none;
     font-size: 1rem;
     font-weight: 600;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     width: 50%;
-    height: 2.75rem;
+    height: 2rem;
     text-align: center;
   }
   
@@ -89,7 +90,6 @@
     display: flex;
     justify-content: space-around;
   }
-  
   @media (max-width: 1100px) {
     .project-menu {
       width: 28rem;
@@ -98,7 +98,7 @@
     }
     .project-item {
       height: 2rem;
-      width: 100%;
+      width: 85%;
     }
     .project-item.activeProject .title {
       font-size: 1rem;
@@ -107,10 +107,14 @@
       font-size: 0.8rem;
     }
   }
+
   @media (max-width: 700px) {
+    .project-sub-container img {
+      padding-left: 20%;
+    }
     .project-menu {
-      width: 28rem;
-      top: 12.5%;
+      top: 5rem;
+      width: 30rem;
       flex-direction: column;
       align-items: center;
     }
@@ -118,27 +122,25 @@
       font-size: 0.7rem;
     }
     .project-sub-container {
-      margin-top: 1rem;
-      width: 15rem;
+      margin-top: 0.5rem;
+      width: 20rem;
     }
-    .project-sub-container h3 {
-      font-size: 0.8rem;
+    .project-sub-container h3{
+      font-size: 1rem;
+      width: 100%;
+      margin-bottom: 0.2rem;
     }
-
     .project-sub-container img {
       width: 12rem;
     }
     .link-container a {
-      margin-top: 0rem;
+      margin-top: 0.5rem;
       width: 50%;
       height: 1rem;
     }
     .project-items-container {
+      left: 15%;
       margin-top: 0;
-      left: 9%;
-    }
-    .project-item .title {
-      font-size: 0.8rem;
     }
   }
   

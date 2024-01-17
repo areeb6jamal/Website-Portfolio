@@ -1,6 +1,6 @@
 .contact-menu {
   position: absolute;
-  top: 57%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -9,7 +9,7 @@ p3 {
   position: absolute;
   text-align: center;
   width: 100%;
-  top: 22.5%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1rem;
@@ -20,7 +20,7 @@ p4 {
   position: absolute;
   text-align: center;
   width: 100%;
-  top: 27.5%;
+  top: 35%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 1.2rem;
@@ -30,7 +30,7 @@ p4 {
 form {
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1.5rem;
   width: 18.5rem;
 }
 
@@ -135,7 +135,12 @@ label {
   #message {
     width: 92%;
   }
+  button{
+    font-weight: 600;
+  }
   .success-message p {
+    width: 75%;
+    align-self: center;
     padding: 0 0.5rem;
   }
 }
