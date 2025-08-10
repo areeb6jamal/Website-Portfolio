@@ -26,7 +26,7 @@ const subheadingsData = {
             <b>McMaster University: Sept. 2020 - Apr. 2025</b>
           </p>
           <p>
-            Currently, I am in my fourth-year with a <b>3.8 GPA</b> and recognized by the world's largest honour society, 
+            Currently, I am in my fifth-year with a <b>3.8 GPA</b> and recognized by the world's largest honour society, 
             the Golden Key International Honour Society for being in the <b>top 15%</b> of my program. 
             The Computer Engineering & Management Program at McMaster is a prestigious 5-year program designed to provide 
             engineering students with a deeper understanding of the business, project management, 
